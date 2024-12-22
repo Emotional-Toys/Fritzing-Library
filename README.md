@@ -1,7 +1,7 @@
 AdaFruit Fritzing Library
 ==========================
 
-A library of parts for [Fritzing](http://fritzing.org/)
+A library of parts for [Fritzing](http://fritzing.org/) and [plandering](https://aisler.net/partners/fritzing).
 
 Released under CC Attribution Share-Alike
 
